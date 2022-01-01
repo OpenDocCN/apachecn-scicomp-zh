@@ -8,6 +8,12 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 目录
+
++   [复杂性思维 中文第二版](docs/think-comp-2e-zh/SUMMARY.md)
++   [fast.ai 数值线性代数讲义中文版 v2](docs/fastai-num-linalg-v2/SUMMARY.md)
++   [Python 仿真建模实用指南](docs/handson-simu-mod-py/SUMMARY.md)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
