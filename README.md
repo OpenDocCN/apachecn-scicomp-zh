@@ -15,6 +15,9 @@
 +   [fast.ai 数值线性代数讲义中文版 v2](docs/fastai-num-linalg-v2/SUMMARY.md)
 +   [Python 仿真建模实用指南](docs/handson-simu-mod-py/SUMMARY.md)
 +   [精通 SciPy](docs/master-scipy/SUMMARY.md)
++   [精通 Python 科学计算](docs/master-py-sci-comp/SUMMARY.md)
++   [Python3 科学计算教程](docs/sci-comp-py3/SUMMARY.md)
++   [SciPy 秘籍](docs/sp-cb-fix1/SUMMARY.md)
 
 ## 贡献指南
 
