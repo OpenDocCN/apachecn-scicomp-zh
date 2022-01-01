@@ -10,9 +10,11 @@
 
 ## 目录
 
++   [MIT 18.03 面向初学者的微积分](docs/calc4b-zh/SUMMARY.md)
 +   [复杂性思维 中文第二版](docs/think-comp-2e-zh/SUMMARY.md)
 +   [fast.ai 数值线性代数讲义中文版 v2](docs/fastai-num-linalg-v2/SUMMARY.md)
 +   [Python 仿真建模实用指南](docs/handson-simu-mod-py/SUMMARY.md)
++   [精通 SciPy](docs/master-scipy/SUMMARY.md)
 
 ## 贡献指南
 
