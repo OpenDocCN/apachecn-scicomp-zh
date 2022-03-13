@@ -8,17 +8,6 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
-## 目录
-
-+   [MIT 18.03 面向初学者的微积分](docs/calc4b-zh/SUMMARY.md)
-+   [复杂性思维 中文第二版](docs/think-comp-2e-zh/SUMMARY.md)
-+   [fast.ai 数值线性代数讲义中文版 v2](docs/fastai-num-linalg-v2/SUMMARY.md)
-+   [Python 仿真建模实用指南](docs/handson-simu-mod-py/SUMMARY.md)
-+   [精通 SciPy](docs/master-scipy/SUMMARY.md)
-+   [精通 Python 科学计算](docs/master-py-sci-comp/SUMMARY.md)
-+   [Python3 科学计算教程](docs/sci-comp-py3/SUMMARY.md)
-+   [SciPy 秘籍](docs/sp-cb-fix1/SUMMARY.md)
-
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
