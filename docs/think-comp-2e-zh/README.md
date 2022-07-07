@@ -5,6 +5,8 @@
 > 译者：[飞龙](https://github.com/)
 
 > 版本：2.5
+>
+> 阶段：精细校对（4）
 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
